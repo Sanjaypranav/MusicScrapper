@@ -29,3 +29,6 @@ class YouTubeScrapper:
     os.rename(out_file, new_file)
     self.file_name = new_file
     return self.file_name
+
+  def noise_removal(self):
+    pass
