@@ -4,7 +4,7 @@ import argparse
 from rich.progress import track
 from rich import print as rprint
 
-# Path: main.py
+# Path: detect.py
 
 # yt = YouTubeScrapper()
 # yt.get_video("Otha sollala")

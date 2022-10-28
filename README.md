@@ -6,7 +6,7 @@
 
 ```bash
 $ pip install -r requirements.txt
-$ python3 main.py -s "nakku mukka vj antony, mallipo"
+$ python3 detect.py -s "nakku mukka vj antony, mallipo"
 ```
 
 or 
